@@ -11,11 +11,11 @@ The CH32V003J4M6 microcontroller is a powerful and cost-effective solution for a
 
 ## Microcontroller Overview
 
-![CH32V003J4M6 Microcontroller](https://github.com/shakir-abdo/ch32v003j4m6-libraries/blob/main/CH32V003J4M6_microcontroller.png)
+![CH32V003J4M6 Microcontroller](https://github.com/shakir-abdo/ch32v003j4m6-libraries/blob/main/CH32V003J4M6.png)
 
 ## Pin Mapping
 
-![CH32V003J4M6 Pin Mapping](https://github.com/shakir-abdo/ch32v003j4m6-libraries/blob/main/CH32V003J4M6_pin_mapping.png)
+![CH32V003J4M6 Pin Mapping](https://github.com/shakir-abdo/ch32v003j4m6-libraries/blob/main/ch32v003j4m6_pins.png)
 
 ## Libraries
 
