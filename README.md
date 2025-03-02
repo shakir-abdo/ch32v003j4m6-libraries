@@ -76,6 +76,13 @@ A library for the ADXL345 accelerometer using the CH32V003J4M6 microcontroller.
 - **Features**: Easy initialization, configurable measurement range, raw and converted acceleration readings, power management functions.
 - **GitHub**: [CH32V003J4M6 ADXL345 Library](https://github.com/shakir-abdo/CH32V003J4M6-ADXL345)
 
+### EEPROM Library
+
+Simple and reliable EEPROM emulation for the CH32V003 microcontroller..
+
+- **Features**: Simple API, Data Integrity, Compact Storage, Flash Management.
+- **GitHub**: [CH32V003 EEPROM Library](https://github.com/shakir-abdo/ch32v003-eeprom)
+
 ## Author
 
 **Shakir Abdo**
