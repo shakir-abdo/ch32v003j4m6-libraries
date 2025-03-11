@@ -83,6 +83,13 @@ Simple and reliable EEPROM emulation for the CH32V003 microcontroller..
 - **Features**: Simple API, Data Integrity, Compact Storage, Flash Management.
 - **GitHub**: [CH32V003 EEPROM Library](https://github.com/shakir-abdo/ch32v003-eeprom)
 
+### WS2812B RGB LED Library
+
+A WS2812B RGB LED control library for CH32V003J4M6 microcontroller..
+
+- **Features**: Simple API, Global brightness control, RGB and HSV support, Direct bit-banging implementation.
+- **GitHub**: [CH32V003 WS2812B Library](https://github.com/shakir-abdo/CH32V003J4M6-WS2812B)
+
 ## Author
 
 **Shakir Abdo**
